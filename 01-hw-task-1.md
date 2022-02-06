@@ -1,1 +1,1 @@
-Text from remote
+Text from local
