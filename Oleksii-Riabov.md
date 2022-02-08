@@ -1,2 +1,1 @@
-Changes from local
-Changes from remote
+Changes form 002-git-hw
